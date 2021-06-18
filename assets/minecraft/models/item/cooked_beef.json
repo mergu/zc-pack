@@ -1,0 +1,12 @@
+{
+ "parent": "item/generated",
+ "textures": {
+  "layer0": "item/cooked_beef"
+ },
+
+ "overrides": [
+  { "predicate": {"custom_model_data": 100}, "model": "item/custom/dog_food"}
+ ]
+
+ 
+}

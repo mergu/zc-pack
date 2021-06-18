@@ -1,0 +1,42 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "custom/ladle"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 90, 0],
+			"translation": [0.5, 3.5, -2.5],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, -90, 0],
+			"translation": [0, 3.25, -2.5],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 95, -68],
+			"translation": [3.25, 0.75, -0.75]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-35, -78, 37],
+			"translation": [6.75, 0.25, -3]
+		},
+		"ground": {
+			"rotation": [0, 0, -86],
+			"translation": [0, 1.75, 0],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"gui": {
+			"rotation": [0, 0, -90]
+		},
+		"head": {
+			"rotation": [0, 0, -90],
+			"translation": [0, 14.75, -2.75]
+		},
+		"fixed": {
+			"rotation": [0, 0, -89]
+		}
+	}
+}

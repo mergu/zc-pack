@@ -1,0 +1,13 @@
+{
+ "parent": "item/generated",
+ "textures": {
+  "layer0": "item/magma_cream"
+ },
+
+ "overrides": [
+  { "predicate": {"custom_model_data": 100}, "model": "item/custom/triforce_gem"},
+  { "predicate": {"custom_model_data": 200}, "model": "item/custom/ancient_core"}
+ ]
+
+ 
+}

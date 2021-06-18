@@ -1,0 +1,13 @@
+{
+ "parent": "item/handheld",
+ "textures": {
+  "layer0": "item/stone_axe"
+ },
+
+ "overrides": [
+  { "predicate": {"custom_model_data": 100}, "model": "item/custom/ancient_bladesaw"}
+
+ ]
+
+ 
+}

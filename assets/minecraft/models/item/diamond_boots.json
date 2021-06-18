@@ -1,0 +1,15 @@
+{
+ "parent": "item/generated",
+ "textures": {
+  "layer0": "item/diamond_boots"
+ },
+
+ "overrides": [
+  { "predicate": {"custom_model_data": 100}, "model": "item/custom/power_boots"},
+  { "predicate": {"custom_model_data": 200}, "model": "item/custom/courage_boots"},
+  { "predicate": {"custom_model_data": 300}, "model": "item/custom/wisdom_boots"},
+  { "predicate": {"custom_model_data": 400}, "model": "item/custom/mythril_boots"}
+ ]
+
+ 
+}

@@ -1,0 +1,14 @@
+{
+ "parent": "item/generated",
+ "textures": {
+  "layer0": "item/ink_sac"
+ },
+
+ "overrides": [
+  { "predicate": {"custom_model_data": 100}, "model": "item/custom/phantom_essence"},
+  { "predicate": {"custom_model_data": 200}, "model": "item/custom/fire_essence"},
+  { "predicate": {"custom_model_data": 300}, "model": "item/custom/heart_piece"}
+ ]
+
+ 
+}

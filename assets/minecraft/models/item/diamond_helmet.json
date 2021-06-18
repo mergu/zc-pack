@@ -1,0 +1,15 @@
+{
+ "parent": "item/generated",
+ "textures": {
+  "layer0": "item/diamond_helmet"
+ },
+
+ "overrides": [
+  { "predicate": {"custom_model_data": 100}, "model": "item/custom/power_helmet"},
+  { "predicate": {"custom_model_data": 200}, "model": "item/custom/courage_helmet"},
+  { "predicate": {"custom_model_data": 300}, "model": "item/custom/wisdom_helmet"},
+  { "predicate": {"custom_model_data": 400}, "model": "item/custom/mythril_helmet"}
+ ]
+
+ 
+}

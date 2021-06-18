@@ -1,0 +1,762 @@
+{
+	"zc_sfx.albw.lbw_fanfare_bow": {
+		"sounds": [
+			"zc_sfx/albw/lbw_fanfare_bow"
+		]
+	},
+	"zc_sfx.albw.lbw_fanfare_item": {
+		"sounds": [
+			"zc_sfx/albw/lbw_fanfare_item"
+		]
+	},
+	"zc_sfx.albw.lbw_fanfare_smallitem": {
+		"sounds": [
+			"zc_sfx/albw/lbw_fanfare_smallitem"
+		]
+	},
+	"zc_sfx.albw.lbw_get_heart": {
+		"sounds": [
+			"zc_sfx/albw/lbw_get_heart"
+		]
+	},
+	"zc_sfx.albw.lbw_get_heart_refill": {
+		"sounds": [
+			"zc_sfx/albw/lbw_get_heart_refill"
+		]
+	},
+	"zc_sfx.albw.lbw_get_rupee": {
+		"sounds": [
+			"zc_sfx/albw/lbw_get_rupee"
+		]
+	},
+	"zc_sfx.albw.lbw_notification": {
+		"sounds": [
+			"zc_sfx/albw/lbw_notification"
+		]
+	},
+	"zc_sfx.albw.lbw_secret": {
+		"sounds": [
+			"zc_sfx/albw/lbw_secret"
+		]
+	},
+	"zc_sfx.albw.lbw_sword_beam": {
+		"sounds": [
+			"zc_sfx/albw/lbw_sword_beam"
+		]
+	},
+	"zc_sfx.albw.lbw_sword_charge": {
+		"sounds": [
+			"zc_sfx/albw/lbw_sword_charge"
+		]
+	},
+	"zc_sfx.alttp.lttp_bomb_blow": {
+		"sounds": [
+			"zc_sfx/alttp/lttp_bomb_blow"
+		]
+	},
+	"zc_sfx.alttp.lttp_bomb_drop": {
+		"sounds": [
+			"zc_sfx/alttp/lttp_bomb_drop"
+		]
+	},
+	"zc_sfx.alttp.lttp_get_heartcontainer": {
+		"sounds": [
+			"zc_sfx/alttp/lttp_get_heartcontainer"
+		]
+	},
+	"zc_sfx.alttp.lttp_get_heartpiece": {
+		"sounds": [
+			"zc_sfx/alttp/lttp_get_heartpiece"
+		]
+	},
+	"zc_sfx.alttp.lttp_get_key": {
+		"sounds": [
+			"zc_sfx/alttp/lttp_get_key"
+		]
+	},
+	"zc_sfx.alttp.lttp_item": {
+		"sounds": [
+			"zc_sfx/alttp/lttp_item"
+		]
+	},
+	"zc_sfx.alttp.lttp_itemfanfare": {
+		"sounds": [
+			"zc_sfx/alttp/lttp_itemfanfare"
+		]
+	},
+	"zc_sfx.alttp.lttp_link_dying": {
+		"sounds": [
+			"zc_sfx/alttp/lttp_link_dying"
+		]
+	},
+	"zc_sfx.alttp.lttp_menu_select": {
+		"sounds": [
+			"zc_sfx/alttp/lttp_menu_select"
+		]
+	},
+	"zc_sfx.alttp.lttp_mushroom": {
+		"sounds": [
+			"zc_sfx/alttp/lttp_mushroom"
+		]
+	},
+	"zc_sfx.alttp.lttp_rupee": {
+		"sounds": [
+			"zc_sfx/alttp/lttp_rupee1"
+		]
+	},
+	"zc_sfx.alttp.lttp_savequit": {
+		"sounds": [
+			"zc_sfx/alttp/lttp_savequit"
+		]
+	},
+	"zc_sfx.alttp.lttp_secret": {
+		"sounds": [
+			"zc_sfx/alttp/lttp_secret"
+		]
+	},
+	"zc_sfx.alttp.lttp_sword_charge": {
+		"sounds": [
+			"zc_sfx/alttp/lttp_sword_charge"
+		]
+	},
+	"zc_sfx.alttp.lttp_sword_magic": {
+		"sounds": [
+			"zc_sfx/alttp/lttp_sword_magic"
+		]
+	},
+	"zc_sfx.alttp.lttp_warp": {
+		"sounds": [
+			"zc_sfx/alttp/lttp_warp"
+		]
+	},
+	"zc_sfx.botw.botw_fanfare_heartcontainer": {
+		"sounds": [
+			"zc_sfx/botw/botw_fanfare_heartcontainer"
+		]
+	},
+	"zc_sfx.botw.botw_fanfare_item": {
+		"sounds": [
+			"zc_sfx/botw/botw_fanfare_item"
+		]
+	},
+	"zc_sfx.botw.botw_fanfare_smallitem": {
+		"sounds": [
+			"zc_sfx/botw/botw_fanfare_smallitem"
+		]
+	},
+	"zc_sfx.botw.botw_fanfare_spiritorb": {
+		"sounds": [
+			"zc_sfx/botw/botw_fanfare_spiritorb"
+		]
+	},
+	"zc_sfx.botw.botw_interact_sound": {
+		"sounds": [
+			"zc_sfx/botw/botw_interact_sound"
+		]
+	},
+	"zc_sfx.botw.botw_item": {
+		"sounds": [
+			"zc_sfx/botw/botw_item"
+		]
+	},
+	"zc_sfx.botw.botw_item_get": {
+		"sounds": [
+			"zc_sfx/botw/botw_item_get"
+		]
+	},
+	"zc_sfx.botw.botw_korok_fanfare": {
+		"sounds": [
+			"zc_sfx/botw/botw_korok_fanfare"
+		]
+	},
+	"zc_sfx.botw.botw_korok_pop": {
+		"sounds": [
+			"zc_sfx/botw/botw_korok_pop"
+		]
+	},
+	"zc_sfx.botw.botw_new_objective": {
+		"sounds": [
+			"zc_sfx/botw/botw_new_objective"
+		]
+	},
+	"zc_sfx.botw.botw_rupee_get": {
+		"sounds": [
+			"zc_sfx/botw/botw_rupee_get"
+		]
+	},
+	"zc_sfx.botw.botw_secret": {
+		"sounds": [
+			"zc_sfx/botw/botw_secret"
+		]
+	},
+	"zc_sfx.botw.botw_yahaha": {
+		"sounds": [
+			"zc_sfx/botw/botw_yahaha"
+		]
+	},
+	"zc_sfx.fools.mmmmmm-converted": {
+		"sounds": [
+			"zc_sfx/fools/mmmmmm-converted"
+		]
+	},
+	"zc_sfx.loz.loz_bomb_drop": {
+		"sounds": [
+			"zc_sfx/loz/loz_bomb_drop"
+		]
+	},
+	"zc_sfx.loz.loz_fanfare": {
+		"sounds": [
+			"zc_sfx/loz/loz_fanfare"
+		]
+	},
+	"zc_sfx.loz.loz_get_item": {
+		"sounds": [
+			"zc_sfx/loz/loz_get_item"
+		]
+	},
+	"zc_sfx.loz.loz_link_die": {
+		"sounds": [
+			"zc_sfx/loz/loz_link_die"
+		]
+	},
+	"zc_sfx.loz.loz_recorder": {
+		"sounds": [
+			"zc_sfx/loz/loz_recorder"
+		]
+	},
+	"zc_sfx.loz.loz_secret": {
+		"sounds": [
+			"zc_sfx/loz/loz_secret"
+		]
+	},
+	"zc_sfx.loz.loz_sword_shoot": {
+		"sounds": [
+			"zc_sfx/loz/loz_sword_shoot"
+		]
+	},
+	"zc_sfx.mc.mc_link_grow": {
+		"sounds": [
+			"zc_sfx/mc/mc_link_grow"
+		]
+	},
+	"zc_sfx.mc.mc_link_shrink": {
+		"sounds": [
+			"zc_sfx/mc/mc_link_shrink"
+		]
+	},
+	"zc_sfx.mm.mm_clocktower_bell": {
+		"sounds": [
+			"zc_sfx/mm/mm_clocktower_bell"
+		]
+	},
+	"zc_sfx.mm.mm_elegyofemptiness": {
+		"sounds": [
+			"zc_sfx/mm/mm_elegyofemptiness"
+		]
+	},
+	"zc_sfx.mm.mm_fanfare_mask": {
+		"sounds": [
+			"zc_sfx/mm/mm_fanfare_mask"
+		]
+	},
+	"zc_sfx.mm.mm_galewarp_in": {
+		"sounds": [
+			"zc_sfx/mm/mm_galewarp_in"
+		]
+	},
+	"zc_sfx.mm.mm_galewarp_out": {
+		"sounds": [
+			"zc_sfx/mm/mm_galewarp_out"
+		]
+	},
+	"zc_sfx.mm.mm_hms_laugh_echo": {
+		"sounds": [
+			"zc_sfx/mm/mm_hms_laugh_echo"
+		]
+	},
+	"zc_sfx.mm.mm_notebook": {
+		"sounds": [
+			"zc_sfx/mm/mm_notebook"
+		]
+	},
+	"zc_sfx.mm.mm_notebook_exit": {
+		"sounds": [
+			"zc_sfx/mm/mm_notebook_exit"
+		]
+	},
+	"zc_sfx.mm.mm_skullkid_ocarinalaugh": {
+		"sounds": [
+			"zc_sfx/mm/mm_skullkid_ocarinalaugh1"
+		]
+	},
+	"zc_sfx.mm.mm_warp": {
+		"sounds": [
+			"zc_sfx/mm/mm_warp"
+		]
+	},
+	"zc_sfx.music.oot_horse_race": {
+		"sounds": [
+			"zc_sfx/music/oot_horse_race"
+		]
+	},
+	"zc_sfx.music.skyloft": {
+		"sounds": [
+			"zc_sfx/music/skyloft"
+		]
+	},
+	"zc_sfx.music.tal_tal_heights": {
+		"sounds": [
+			"zc_sfx/music/tal_tal_heights"
+		]
+	},
+	"zc_sfx.oot.oot_afterboss_glow_mono": {
+		"sounds": [
+			"zc_sfx/oot/oot_afterboss_glow_mono"
+		]
+	},
+	"zc_sfx.oot.oot_afterboss_warp_mono": {
+		"sounds": [
+			"zc_sfx/oot/oot_afterboss_warp_mono"
+		]
+	},
+	"zc_sfx.oot.oot_bomb_blow": {
+		"sounds": [
+			"zc_sfx/oot/oot_bomb_blow"
+		]
+	},
+	"zc_sfx.oot.oot_bomb_fuse": {
+		"sounds": [
+			"zc_sfx/oot/oot_bomb_fuse"
+		]
+	},
+	"zc_sfx.oot.oot_crystalswitch": {
+		"sounds": [
+			"zc_sfx/oot/oot_crystalswitch1"
+		]
+	},
+	"zc_sfx.oot.oot_crystalswitch_off": {
+		"sounds": [
+			"zc_sfx/oot/oot_crystalswitch_off"
+		]
+	},
+	"zc_sfx.oot.oot_door_boss_unlock": {
+		"sounds": [
+			"zc_sfx/oot/oot_door_boss_unlock"
+		]
+	},
+	"zc_sfx.oot.oot_door_mechanical_close": {
+		"sounds": [
+			"zc_sfx/oot/oot_door_mechanical_close"
+		]
+	},
+	"zc_sfx.oot.oot_door_mechanical_open": {
+		"sounds": [
+			"zc_sfx/oot/oot_door_mechanical_open"
+		]
+	},
+	"zc_sfx.oot.oot_door_stone_open": {
+		"sounds": [
+			"zc_sfx/oot/oot_door_stone_open"
+		]
+	},
+	"zc_sfx.oot.oot_door_stone_slam": {
+		"sounds": [
+			"zc_sfx/oot/oot_door_stone_slam"
+		]
+	},
+	"zc_sfx.oot.oot_door_unlock": {
+		"sounds": [
+			"zc_sfx/oot/oot_door_unlock"
+		]
+	},
+	"zc_sfx.oot.oot_fairy": {
+		"sounds": [
+			"zc_sfx/oot/oot_fairy"
+		]
+	},
+	"zc_sfx.oot.oot_fanfare_heartcontainer": {
+		"sounds": [
+			"zc_sfx/oot/oot_fanfare_heartcontainer"
+		]
+	},
+	"zc_sfx.oot.oot_fanfare_item": {
+		"sounds": [
+			"zc_sfx/oot/oot_fanfare_item"
+		]
+	},
+	"zc_sfx.oot.oot_get_heart": {
+		"sounds": [
+			"zc_sfx/oot/oot_get_heart"
+		]
+	},
+	"zc_sfx.oot.oot_get_smallitem": {
+		"sounds": [
+			"zc_sfx/oot/oot_get_smallitem"
+		]
+	},
+	"zc_sfx.oot.oot_get_smallitem_last": {
+		"sounds": [
+			"zc_sfx/oot/oot_get_smallitem_last"
+		]
+	},
+	"zc_sfx.oot.oot_goldskulltula_token": {
+		"sounds": [
+			"zc_sfx/oot/oot_goldskulltula_token"
+		]
+	},
+	"zc_sfx.oot.oot_horse_whistle": {
+		"sounds": [
+			"zc_sfx/oot/oot_horse_whistle"
+		]
+	},
+	"zc_sfx.oot.oot_navi_float": {
+		"sounds": [
+			"zc_sfx/oot/oot_navi_float"
+		]
+	},
+	"zc_sfx.oot.oot_navi_hey": {
+		"sounds": [
+			"zc_sfx/oot/oot_navi_hey1"
+		]
+	},
+	"zc_sfx.oot.oot_navi_listen": {
+		"sounds": [
+			"zc_sfx/oot/oot_navi_listen1"
+		]
+	},
+	"zc_sfx.oot.oot_navi_look": {
+		"sounds": [
+			"zc_sfx/oot/oot_navi_look1"
+		]
+	},
+	"zc_sfx.oot.oot_secret_mono": {
+		"sounds": [
+			"zc_sfx/oot/oot_secret_mono"
+		]
+	},
+	"zc_sfx.oot.oot_switch": {
+		"sounds": [
+			"zc_sfx/oot/oot_switch"
+		]
+	},
+	"zc_sfx.oot.oot_ticktock_fast": {
+		"sounds": [
+			"zc_sfx/oot/oot_ticktock_fast"
+		]
+	},
+	"zc_sfx.oot.oot_ticktock_med": {
+		"sounds": [
+			"zc_sfx/oot/oot_ticktock_med"
+		]
+	},
+	"zc_sfx.oot.oot_ticktock_slow": {
+		"sounds": [
+			"zc_sfx/oot/oot_ticktock_slow"
+		]
+	},
+	"zc_sfx.oot.oot_warp_portal_in": {
+		"sounds": [
+			"zc_sfx/oot/oot_warp_portal_in"
+		]
+	},
+	"zc_sfx.oot.oot_warp_portal_out": {
+		"sounds": [
+			"zc_sfx/oot/oot_warp_portal_out"
+		]
+	},
+	"zc_sfx.oot.oot_warp_song_in": {
+		"sounds": [
+			"zc_sfx/oot/oot_warp_song_in"
+		]
+	},
+	"zc_sfx.oot.oot_warp_song_out": {
+		"sounds": [
+			"zc_sfx/oot/oot_warp_song_out"
+		]
+	},
+	"zc_sfx.ph.ph_fanfare_getitem_dizzy": {
+		"sounds": [
+			"zc_sfx/ph/ph_fanfare_getitem_dizzy"
+		]
+	},
+	"zc_sfx.ph.ph_fanfare_getrupoor": {
+		"sounds": [
+			"zc_sfx/ph/ph_fanfare_getrupoor"
+		]
+	},
+	"zc_sfx.ss.zss_beedlebell": {
+		"sounds": [
+			"zc_sfx/ss/zss_beedlebell"
+		]
+	},
+	"zc_sfx.ss.zss_fanfare_collectible": {
+		"sounds": [
+			"zc_sfx/ss/zss_fanfare_collectible"
+		]
+	},
+	"zc_sfx.ss.zss_fanfare_heartcontainer": {
+		"sounds": [
+			"zc_sfx/ss/zss_fanfare_heartcontainer"
+		]
+	},
+	"zc_sfx.ss.zss_fanfare_item": {
+		"sounds": [
+			"zc_sfx/ss/zss_fanfare_item"
+		]
+	},
+	"zc_sfx.ss.zss_fanfare_rupoor": {
+		"sounds": [
+			"zc_sfx/ss/zss_fanfare_rupoor"
+		]
+	},
+	"zc_sfx.ss.zss_fanfare_smallitem": {
+		"sounds": [
+			"zc_sfx/ss/zss_fanfare_smallitem"
+		]
+	},
+	"zc_sfx.ss.zss_heart": {
+		"sounds": [
+			"zc_sfx/ss/zss_heart"
+		]
+	},
+	"zc_sfx.ss.zss_rupee": {
+		"sounds": [
+			"zc_sfx/ss/zss_rupee"
+		]
+	},
+	"zc_sfx.ss.zss_rupee_blue": {
+		"sounds": [
+			"zc_sfx/ss/zss_rupee_blue"
+		]
+	},
+	"zc_sfx.ss.zss_rupee_red": {
+		"sounds": [
+			"zc_sfx/ss/zss_rupee_red"
+		]
+	},
+	"zc_sfx.ss.zss_secret": {
+		"sounds": [
+			"zc_sfx/ss/zss_secret"
+		]
+	},
+	"zc_sfx.ss.zss_secret_minor": {
+		"sounds": [
+			"zc_sfx/ss/zss_secret_minor"
+		]
+	},
+	"zc_sfx.st.st_correctsong": {
+		"sounds": [
+			"zc_sfx/st/st_correctsong"
+		]
+	},
+	"zc_sfx.st.st_fanfare_getforcegem": {
+		"sounds": [
+			"zc_sfx/st/st_fanfare_getforcegem"
+		]
+	},
+	"zc_sfx.st.st_fanfare_getitem": {
+		"sounds": [
+			"zc_sfx/st/st_fanfare_getitem"
+		]
+	},
+	"zc_sfx.st.st_fanfare_getsmallitem": {
+		"sounds": [
+			"zc_sfx/st/st_fanfare_getsmallitem"
+		]
+	},
+	"zc_sfx.tfh.tfh_fanfare_commonitem": {
+		"sounds": [
+			"zc_sfx/tfh/tfh_fanfare_commonitem"
+		]
+	},
+	"zc_sfx.tfh.tfh_fanfare_rareitem": {
+		"sounds": [
+			"zc_sfx/tfh/tfh_fanfare_rareitem"
+		]
+	},
+	"zc_sfx.tfh.tfh_fanfare_weapon": {
+		"sounds": [
+			"zc_sfx/tfh/tfh_fanfare_weapon"
+		]
+	},
+	"zc_sfx.tfh.tfh_playerquit": {
+		"sounds": [
+			"zc_sfx/tfh/tfh_playerquit"
+		]
+	},
+	"zc_sfx.tp.tp_bomb_blow": {
+		"sounds": [
+			"zc_sfx/tp/tp_bomb_blow"
+		]
+	},
+	"zc_sfx.tp.tp_bomb_fuse_loop": {
+		"sounds": [
+			"zc_sfx/tp/tp_bomb_fuse_loop"
+		]
+	},
+	"zc_sfx.tp.tp_bow_shoot": {
+		"sounds": [
+			"zc_sfx/tp/tp_bow_shoot"
+		]
+	},
+	"zc_sfx.tp.tp_bow_shoot_quick": {
+		"sounds": [
+			"zc_sfx/tp/tp_bow_shoot_quick"
+		]
+	},
+	"zc_sfx.tp.tp_fairy": {
+		"sounds": [
+			"zc_sfx/tp/tp_fairy"
+		]
+	},
+	"zc_sfx.tp.tp_fanfare_firstrupee": {
+		"sounds": [
+			"zc_sfx/tp/tp_fanfare_firstrupee"
+		]
+	},
+	"zc_sfx.tp.tp_fanfare_heartcontainer": {
+		"sounds": [
+			"zc_sfx/tp/tp_fanfare_heartcontainer"
+		]
+	},
+	"zc_sfx.tp.tp_fanfare_item": {
+		"sounds": [
+			"zc_sfx/tp/tp_fanfare_item"
+		]
+	},
+	"zc_sfx.tp.tp_fanfare_smallitem": {
+		"sounds": [
+			"zc_sfx/tp/tp_fanfare_smallitem"
+		]
+	},
+	"zc_sfx.tp.tp_get_heart": {
+		"sounds": [
+			"zc_sfx/tp/tp_get_heart"
+		]
+	},
+	"zc_sfx.tp.tp_get_rupee": {
+		"sounds": [
+			"zc_sfx/tp/tp_get_rupee"
+		]
+	},
+	"zc_sfx.tp.tp_secret": {
+		"sounds": [
+			"zc_sfx/tp/tp_secret"
+		]
+	},
+	"zc_sfx.tp.tp_warp_in": {
+		"sounds": [
+			"zc_sfx/tp/tp_warp_in"
+		]
+	},
+	"zc_sfx.tp.tp_warp_out": {
+		"sounds": [
+			"zc_sfx/tp/tp_warp_out"
+		]
+	},
+	"zc_sfx.ww.ww_beedle_bye": {
+		"sounds": [
+			"zc_sfx/ww/ww_beedle_bye"
+		]
+	},
+	"zc_sfx.ww.ww_beedle_ohhh": {
+		"sounds": [
+			"zc_sfx/ww/ww_beedle_ohhh"
+		]
+	},
+	"zc_sfx.ww.ww_beedle_thankyou": {
+		"sounds": [
+			"zc_sfx/ww/ww_beedle_thankyou"
+		]
+	},
+	"zc_sfx.ww.ww_block_slide": {
+		"sounds": [
+			"zc_sfx/ww/ww_block_slide"
+		]
+	},
+	"zc_sfx.ww.ww_block_slide_end": {
+		"sounds": [
+			"zc_sfx/ww/ww_block_slide_end"
+		]
+	},
+	"zc_sfx.ww.ww_bomb_blow": {
+		"sounds": [
+			"zc_sfx/ww/ww_bomb_blow"
+		]
+	},
+	"zc_sfx.ww.ww_boomerang_bounce": {
+		"sounds": [
+			"zc_sfx/ww/ww_boomerang_bounce"
+		]
+	},
+	"zc_sfx.ww.ww_boomerang_catch": {
+		"sounds": [
+			"zc_sfx/ww/ww_boomerang_catch"
+		]
+	},
+	"zc_sfx.ww.ww_boomerang_fly": {
+		"sounds": [
+			"zc_sfx/ww/ww_boomerang_fly"
+		]
+	},
+	"zc_sfx.ww.ww_fanfare_heartcontainer": {
+		"sounds": [
+			"zc_sfx/ww/ww_fanfare_heartcontainer"
+		]
+	},
+	"zc_sfx.ww.ww_fanfare_item": {
+		"sounds": [
+			"zc_sfx/ww/ww_fanfare_item"
+		]
+	},
+	"zc_sfx.ww.ww_fanfare_newsong": {
+		"sounds": [
+			"zc_sfx/ww/ww_fanfare_newsong"
+		]
+	},
+	"zc_sfx.ww.ww_fanfare_rupee": {
+		"sounds": [
+			"zc_sfx/ww/ww_fanfare_rupee"
+		]
+	},
+	"zc_sfx.ww.ww_fanfare_smallitem": {
+		"sounds": [
+			"zc_sfx/ww/ww_fanfare_smallitem"
+		]
+	},
+	"zc_sfx.ww.ww_fanfare_treasurechest": {
+		"sounds": [
+			"zc_sfx/ww/ww_fanfare_treasurechest"
+		]
+	},
+	"zc_sfx.ww.ww_get_heart": {
+		"sounds": [
+			"zc_sfx/ww/ww_get_heart"
+		]
+	},
+	"zc_sfx.ww.ww_get_item": {
+		"sounds": [
+			"zc_sfx/ww/ww_get_item"
+		]
+	},
+	"zc_sfx.ww.ww_secret": {
+		"sounds": [
+			"zc_sfx/ww/ww_secret"
+		]
+	},
+	"zc_sfx.ww.ww_sword_slash": {
+		"sounds": [
+			"zc_sfx/ww/ww_sword_slash"
+		]
+	},
+	"zc_sfx.ww.ww_sword_spin": {
+		"sounds": [
+			"zc_sfx/ww/ww_sword_spin"
+		]
+	},
+	"zc_sfx.ww.ww_tetra_wink": {
+		"sounds": [
+			"zc_sfx/ww/ww_tetra_wink"
+		]
+	}
+}

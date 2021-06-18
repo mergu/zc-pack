@@ -1,0 +1,44 @@
+{
+	"credit": "Made with Blockbench",
+    "parent": "item/generated",
+	"textures": {
+		"layer0": "item/tools/boomerang_throw",
+		"particle": "item/tools/boomerang_throw"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-9, -18, 13],
+			"translation": [-3.75, 0.25, 0.25],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-9, -18, -13],
+			"translation": [-3.75, 0.25, 0.25],
+			"scale": [-0.7, 0.7, -0.7]
+		},
+		"firstperson_righthand": {
+			"rotation": [-20, -18, 17],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-20, -18, 17],
+			"scale": [-0.8, 0.8, -0.8]
+		},
+		"ground": {
+			"translation": [0, 2.5, 0],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"gui": {
+			"scale": [-1, 1, -1]
+		},
+		"head": {
+			"rotation": [-90, 0, 0],
+			"translation": [0.25, -14, 0],
+			"scale": [2, 2, 2]
+		},
+		"fixed": {
+			"translation": [0, 0, -0.1],
+			"scale": [1.25, 1.25, 1.25]
+		}
+	}
+}

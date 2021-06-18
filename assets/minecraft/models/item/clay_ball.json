@@ -1,0 +1,15 @@
+{
+ "parent": "item/generated",
+ "textures": {
+  "layer0": "item/clay_ball"
+ },
+
+ "overrides": [
+  { "predicate": {"custom_model_data": 100}, "model": "item/custom/zelda_bomb"},
+  { "predicate": {"custom_model_data": 200}, "model": "item/custom/zelda_bomb_exploding"},
+  { "predicate": {"custom_model_data": 300}, "model": "item/custom/zelda_bomb_exploding_fast"}
+
+ ]
+
+ 
+}

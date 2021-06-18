@@ -1,0 +1,13 @@
+{
+ "parent": "item/handheld",
+ "textures": {
+  "layer0": "item/golden_axe"
+ },
+
+ "overrides": [
+  { "predicate": {"custom_model_data": 100}, "model": "item/custom/royal_halberd"},
+  { "predicate": {"custom_model_data": 200}, "model": "item/custom/faron_axe"}
+ ]
+
+ 
+}

@@ -1,0 +1,13 @@
+{
+ "parent": "item/generated",
+ "textures": {
+  "layer0": "item/paper"
+ },
+
+ "overrides": [
+  { "predicate": {"custom_model_data": 600}, "model": "item/custom/bunnyhood"},
+  { "predicate": {"custom_model_data": 700}, "model": "item/custom/ring_of_grace"}
+ ]
+
+
+}

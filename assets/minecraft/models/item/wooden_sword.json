@@ -1,0 +1,15 @@
+{
+ "parent": "item/handheld",
+ "textures": {
+  "layer0": "item/wooden_sword"
+ },
+
+ "overrides": [
+  { "predicate": {"custom_model_data": 100}, "model": "item/custom/boat_oar"},
+  { "predicate": {"custom_model_data": 200}, "model": "item/custom/boko_bat"},
+  { "predicate": {"custom_model_data": 300}, "model": "item/custom/ladle"}
+
+ ]
+
+ 
+}

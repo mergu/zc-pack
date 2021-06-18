@@ -1,0 +1,15 @@
+{
+ "parent": "item/generated",
+ "textures": {
+  "layer0": "item/diamond_chestplate"
+ },
+
+ "overrides": [
+  { "predicate": {"custom_model_data": 100}, "model": "item/custom/power_chestplate"},
+  { "predicate": {"custom_model_data": 200}, "model": "item/custom/courage_chestplate"},
+  { "predicate": {"custom_model_data": 300}, "model": "item/custom/wisdom_chestplate"},
+  { "predicate": {"custom_model_data": 400}, "model": "item/custom/mythril_chestplate"}
+ ]
+
+ 
+}

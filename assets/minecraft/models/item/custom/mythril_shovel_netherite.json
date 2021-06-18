@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures":{
+		"layer0": "item/tools/mythril_shovel_netherite"
+	}
+	
+
+}

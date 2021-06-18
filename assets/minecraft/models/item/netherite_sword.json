@@ -1,0 +1,15 @@
+{
+ "parent": "item/handheld",
+ "textures": {
+  "layer0": "item/netherite_sword"
+ },
+
+ "overrides": [ { "predicate": 
+  {"custom_model_data": 100}, "model": "item/custom/phantom_ganon_sword"},
+  { "predicate": {"custom_model_data": 200}, "model": "item/custom/twilight_sword"},
+  { "predicate": {"custom_model_data": 300}, "model": "item/custom/royal_guards_spear"},
+  { "predicate": {"custom_model_data": 400}, "model": "item/custom/ancient_spear"}
+ ]
+
+ 
+}

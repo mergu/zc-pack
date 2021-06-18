@@ -1,0 +1,14 @@
+{
+ "parent": "item/generated",
+ "textures": {
+  "layer0": "item/gold_ingot"
+ },
+
+ "overrides": [
+  { "predicate": {"custom_model_data": 100}, "model": "item/custom/stone_of_knowledge"},
+  { "predicate": {"custom_model_data": 200}, "model": "item/custom/wisdom_shard_orb"},
+  { "predicate": {"custom_model_data": 300}, "model": "item/custom/fools_gold"}
+ ]
+
+ 
+}

@@ -1,0 +1,17 @@
+{
+ "parent": "item/handheld",
+ "textures": {
+  "layer0": "item/diamond_sword"
+ },
+
+ "overrides": [
+  { "predicate": {"custom_model_data": 100}, "model": "item/custom/master_sword"},
+  { "predicate": {"custom_model_data": 200}, "model": "item/custom/fierce_deity_sword"},
+  { "predicate": {"custom_model_data": 300}, "model": "item/custom/great_fairy_sword"}
+
+  
+
+ ]
+
+ 
+}
